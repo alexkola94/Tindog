@@ -147,13 +147,18 @@ p {
   color: #fff;
   text-align:center;
   padding: 7% 15%;
-
-
+}
+.cta-heading{
+  font-family:"Montserrat";
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
 }
 /* Footer section */
 #footer{
   background-color: #fff;
   text-align: center;
+  padding: 7% 15%;
 }
 
 .footer-icon{
